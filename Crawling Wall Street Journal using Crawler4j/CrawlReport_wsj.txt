@@ -1,0 +1,44 @@
+Name: Ankit Nitinkumar Bhawsar
+USC ID: 4889451132
+News site crawled: wsj.com
+Number of threads: 7
+
+Fetch Statistics
+================
+# fetches attempted: 20000
+# fetches succeeded: 19618
+# fetches failed or aborted: 382
+
+Outgoing URLs:
+==============
+Total URLs extracted: 5307158
+# unique URLs extracted: 1677243
+# unique URLs within News Site: 236495
+# unique URLs outside News Site: 1440748
+
+Status Codes:
+=============
+200 OK: 19618
+301 Moved Permanently: 248
+302 Found: 18
+307 Temporary Redirect: 76
+400 Bad Request: 2
+401 Unauthorized: 1
+403 Forbidden: 4
+404 Not Found: 29
+500 Internal Server Error: 3
+503 Service Unavailable: 1
+
+File Sizes:
+===========
+< 1KB: 1
+1KB ~ <10KB: 119
+10KB ~ <100KB: 129
+100KB ~ <1MB: 18713
+>= 1MB: 634
+
+Content Types:
+==============
+image/jpeg: 7
+image/png: 128
+text/html: 19461
